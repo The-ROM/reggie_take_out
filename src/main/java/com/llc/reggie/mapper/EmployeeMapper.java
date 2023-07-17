@@ -1,8 +1,7 @@
-package com.itheima.reggie.mapper;
+package com.llc.reggie.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.itheima.reggie.entity.Employee;
-import lombok.extern.slf4j.Slf4j;
+import com.llc.reggie.entity.Employee;
 import org.apache.ibatis.annotations.Mapper;
 
 

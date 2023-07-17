@@ -1,4 +1,4 @@
-package com.itheima.reggie.common;
+package com.llc.reggie.common;
 
 import lombok.Data;
 import java.util.HashMap;
